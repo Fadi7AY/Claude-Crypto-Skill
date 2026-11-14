@@ -1,0 +1,8 @@
+{
+  "name": "crypto-spot-trading",
+  "version": "1.0.0",
+  "description": "Skills for a crypto spot trading bot: market data, technical and TradingView analysis, scanning, risk management, order execution (paper and live via ccxt), backtesting with walk-forward validation, a trade journal and a bot runner.",
+  "author": { "name": "Fadi Abu Yaseen" },
+  "license": "MIT",
+  "keywords": ["crypto", "trading", "spot", "tradingview", "backtesting", "risk-management", "ccxt"]
+}

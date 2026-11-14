@@ -1,0 +1,11 @@
+{
+  "name": "claude-crypto-skill",
+  "owner": { "name": "Fadi Abu Yaseen" },
+  "plugins": [
+    {
+      "name": "crypto-spot-trading",
+      "source": "./",
+      "description": "Nine skills for analysing, backtesting and running a crypto spot trading bot with strict risk controls."
+    }
+  ]
+}

@@ -1,0 +1,5 @@
+ccxt>=4.4
+pandas>=2.1
+numpy>=1.26
+tradingview-ta>=3.3
+tradingview-screener>=3.0
