@@ -4,6 +4,19 @@ Nine Claude Code skills that cover the full loop of a spot trading bot: get data
 
 > **Not financial advice.** This is software for research and automation. Crypto trading can lose all the capital you commit. Nothing here predicts prices, and a passing backtest does not guarantee future results. You are responsible for every order placed with your API keys.
 
+## At a glance
+
+```mermaid
+flowchart LR
+    N0["Market data"]
+    N1["Analysis and filters"]
+    N2["Sizing and risk checks"]
+    N3["Paper execution by default"]
+    N4["Manage and journal"]
+    N0 --> N1 --> N2 --> N3 --> N4
+```
+
+
 ## Skills
 
 | Skill | What it does | Ask Claude things like |
